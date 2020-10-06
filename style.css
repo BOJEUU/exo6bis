@@ -1,0 +1,73 @@
+#container {
+  display: flex;
+  align-content: flex-start ;
+  flex-wrap: wrap;
+  height: 100vh;
+  width: 100%;
+}
+#container1 {
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 40%;
+}
+#container2 {
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  width: 66%;
+  height: 100%;
+}
+#container3 {
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+}
+.element-1 {
+  background-color: greenyellow;
+  height: 5%;
+  width: 80%;
+}
+.element-2 {
+  background-color: cyan;
+  height: 5%;
+  width: 20%;
+}
+.element-3 {
+  background-color: red;
+  height: 100%;
+  width: 34%;
+}
+.element-4 {
+  background-color: darkgoldenrod;
+  height: 50%;
+  width: 50%;
+}
+.element-5 {
+  background-color: darkgrey;
+  height: 50%;
+  width: 50%;
+}
+.element-6 {
+  background-color: darkorange;
+  height: 50%;
+  width: 33.33%;
+}
+.element-7 {
+  background-color: purple;
+  height: 50%;
+  width: 33.33%;
+}
+.element-8 {
+  background-color: pink;
+  height: 50%;
+  width: 33.33%;
+}
+.element-9 {
+  background-color: yellow;
+  height: 50%;
+  width: 100%;
+}
